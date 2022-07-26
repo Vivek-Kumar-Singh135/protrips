@@ -1,0 +1,56 @@
+* {
+    color: white;
+}
+
+button {
+    background-color: rgb(34, 47, 63);
+    border: none;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+}
+
+.buttons {
+    margin-top: 20%;
+}
+
+.details {
+    text-align: center;
+    margin-top: 12%;
+    margin-left: 38%;
+}
+
+.trips {
+    margin-top: 15%;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+sub {
+    font-size: large;
+    font-weight: normal;
+}
+
+.desc-trips {
+    margin-top: 40px;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.tripbtn {
+    width: 15px;
+    height: 15px;
+}
+
+.bar {
+    margin-top: 40px;
+    width: 200px;
+}

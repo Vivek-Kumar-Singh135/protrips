@@ -1,0 +1,42 @@
+* {
+    color: white;
+}
+
+.container {
+    display: flex;
+}
+
+.Form {
+    margin-top: 12%;
+    margin-left: 40%;
+}
+
+#heading {
+    font-size: 40px;
+    font-weight: 200;
+}
+
+.Input {
+    width: 200px;
+    background-color: rgb(34, 47, 63);
+    border: 2px solid white;
+    padding: 5px;
+}
+
+select {
+    width: 215px;
+    background-color: rgb(34, 47, 63);
+    border: 2px solid white;
+    padding: 5px;
+}
+
+#Submit {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+#submit-btn {
+    border: 2px solid white;
+    padding: 5px;
+}

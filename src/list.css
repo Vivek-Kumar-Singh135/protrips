@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+}
+
+.list {
+    margin-top: 12%;
+    margin-left: 40%;
+}
+
+#heading {
+    text-align: center;
+}
+
+#th1 {
+    width: 100px;
+}
+
+#th2 {
+    width: 50px;
+}
+
+#line {
+    background-color: white;
+    width: 2px;
+}
+
+table {
+    text-align: left;
+}
+
+.filter {
+    font-size: small;
+}
+
+#radio {
+    width: 20px;
+}
