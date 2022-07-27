@@ -13,6 +13,7 @@ root.render(
       <Route path='/' element={<Home/>}></Route>
       <Route path='add' element={<Add/>}></Route>
       <Route path='list' element={<List/>}></Route>
+      <Route path='*' element={<Home/>}></Route>
     </Routes>
   </BrowserRouter>
 );
