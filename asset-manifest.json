@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.df7d1e35.css",
-    "main.js": "/static/js/main.f7177a9f.js",
-    "index.html": "/index.html",
-    "main.df7d1e35.css.map": "/static/css/main.df7d1e35.css.map",
-    "main.f7177a9f.js.map": "/static/js/main.f7177a9f.js.map"
+    "main.css": "/protrips/static/css/main.df7d1e35.css",
+    "main.js": "/protrips/static/js/main.f7177a9f.js",
+    "index.html": "/protrips/index.html",
+    "main.df7d1e35.css.map": "/protrips/static/css/main.df7d1e35.css.map",
+    "main.f7177a9f.js.map": "/protrips/static/js/main.f7177a9f.js.map"
   },
   "entrypoints": [
     "static/css/main.df7d1e35.css",
