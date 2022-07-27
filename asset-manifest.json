@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/protrips/static/css/main.df7d1e35.css",
-    "main.js": "/protrips/static/js/main.f7177a9f.js",
+    "main.js": "/protrips/static/js/main.c50ef3e1.js",
     "index.html": "/protrips/index.html",
     "main.df7d1e35.css.map": "/protrips/static/css/main.df7d1e35.css.map",
-    "main.f7177a9f.js.map": "/protrips/static/js/main.f7177a9f.js.map"
+    "main.c50ef3e1.js.map": "/protrips/static/js/main.c50ef3e1.js.map"
   },
   "entrypoints": [
     "static/css/main.df7d1e35.css",
-    "static/js/main.f7177a9f.js"
+    "static/js/main.c50ef3e1.js"
   ]
 }
